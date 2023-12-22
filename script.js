@@ -1,2 +1,0 @@
-let dogname = 'Jora';
-const
